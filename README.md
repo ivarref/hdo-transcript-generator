@@ -19,12 +19,12 @@ Clone this repo and build it.
     # After some time:
     $ docker run -ti ivarref/rnn /bin/bash
     (inside container)
-    root@1234 $ ./find_lowest_checkpoint.py /opt/cv
+    root@1234 $ ./find_lowest_checkpoint.py cv
     *** and the lowest checkpoint file is:
-    /opt/cv/lm_lstm_epoch37.24_0.9575.t7
-    root@1234 $ /root/torch/install/bin/th sample.lua /opt/cv/lm_lstm_epoch37.24_0.9575.t7 -gpuid -1 -primetext fattigdom -length 2500
+    cv/lm_lstm_epoch37.24_0.9575.t7
+    root@1234 $ /root/torch/install/bin/th sample.lua cv/lm_lstm_epoch37.24_0.9575.t7 -gpuid -1 -primetext fattigdom -length 2500
 
-    ... Profit?
+... Profit?
 
 ## Sample Heikki Holmås about 'fattigdom'
 
