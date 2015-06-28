@@ -1,4 +1,4 @@
-# HDO-transcript-generator POC
+# HDO-transcript-generator
 
 ## Requirements
 
