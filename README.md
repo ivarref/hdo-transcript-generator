@@ -62,3 +62,41 @@ Clone this repo and build it.
     familiegjenforening og de samme samfunnets rikeste. Og sett i dag.Nå gjør
     vi vårt imot.  Objeftingen for folk til statsbudsjettet. 
 
+## Sample Heikki Holmås about 'skatt'
+
+    skatten i lovteksten, er det ikke noe nedgang i forhold til det
+    skatteletten, spist, og det har dette ikke vært fantastisk i det hele tatt,
+    er at vi tråder med regionen i utviklingslands interesser på utbygging av
+    situasjonen. De har lest våre mennesker som har tatt til Norge. Vi er så
+    bidrar i og gjennom å diskutere fattigdom, men boligpolitikken er der
+    kripenasjonen Norge klarer å bo, bortsett fra høyresiden, blir det riktig
+    at sin er en problem, hvem det er som er spesialisten for å få ned
+    likestillingsbygget over flere boliger logt den norske
+    arbeidsløshetsstørste tomten, vil vi skaffe andre steder, etter helt av
+    havner mangelen av siste mål, nlemmer vi prisene til krig i denne saken,
+    for der det er også mange områder. Derfor er det slik at forskjellige
+    ambisjoner og demokrati gjør tilbake igjen i verden, fordi vi i stedet
+    ytterligere bidrar til alle framtidig alternativ årsak, og de papppremmer
+    som en sektorføring fris vekst, for langsiktighet og kompetanse. Dette har
+    en sterkere situasjon. Vi sier at det er gjort arbeidet og avvist uten at
+    Høyre mener at det er veldig utjevning av denne saken og
+    finansieringstiltak. Slike situasjon ja ble også tenkt å spille på
+    Utsira-svaret som i hvert fall være å endre tilskudd for dem som kommunene
+    det var arbeidsløse,, og vi vet at mennesker på velstanden eier innsatsen
+    på sjansen for å sende sitt område for å prøve å sørge for å vente på
+    klimaforliket. Men vi er ikke opptatt av skattelette til verdens
+    flyktninger enn det de ønsker å undergures i statsbudsjettet, er en utvalg
+    for alle energikrisene. Men etter denne debatten å jobbe for i flere
+    konkurranseutsetting og vedkonsekvenser som er andre lov som ville ha
+    mulighet til å gi stemmerett på veien i grunn – som tilhenger av barn, blir
+    mange senere bor som skal drive forervalg. De skulle bidra til folk med
+    behovet og støtter inn i forhold til itransse formaniske mennesker på andre
+    stadig høyere lærere, i plutt i den garantiordningen som ligger der, er
+    ungdom det prineipperes man innen resynter, i årene som kommer.  En del
+    budsjettfante for finanskrisens Erna Solbergs side altså ikke ønsker å stå
+    godt i en kjempebudsjett, for er det vel nettopp det – også gjennom
+    barnehagekontrollen er ofte strømpriser – også reduserer alle disse
+    forslagene som bor 1 fil.  Da muliger oss forbefolkningen av Høyre om et
+    erstatningsmiljøvennlig situasjon.
+
+
