@@ -29,7 +29,9 @@ RUN cp -v ./input.txt /char-rnn/data/hdo/.
 WORKDIR /char-rnn
 VOLUME ["/opt/cv"]
 ENV TERM screen-256color
-RUN /root/torch/install/bin/th train.lua -checkpoint_dir /opt/cv -data_dir data/hdo -gpuid -1 -rnn_size 512 -num_layers 2 -dropout 0.5
+RUN echo "start $(date)" > log.txt
+RUN /root/torch/install/bin/th train.lua -checkpoint_dir /opt/cv -data_dir data/hdo -gpuid -1 -rnn_size 512 -num_layers 2 -dropout 0.5 | tee -a log.txt
+RUN echo "done  $(date)" >> log.txt
 
 ADD find_lowest_checkpoint.py find_lowest_checkpoint.py
 RUN chmod +x ./find_lowest_checkpoint.py
