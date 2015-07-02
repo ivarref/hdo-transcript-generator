@@ -24,12 +24,15 @@ ADD load_disk.py load_disk.py
 RUN python load_disk.py Heikki Holmås
 
 RUN mkdir -p /char-rnn/data/hdo
-RUN cp -v ./input.txt /char-rnn/data/hdo/.
+#RUN cp -v ./input.txt /char-rnn/data/hdo/.
 
 WORKDIR /char-rnn
 ENV TERM screen-256color
 RUN echo "start $(date)" > log.txt
-RUN /root/torch/install/bin/th train.lua -data_dir data/hdo -gpuid -1 -rnn_size 512 -num_layers 2 -dropout 0.5 | tee -a log.txt
+#RUN echo "hello world-ish" > /char-rnn/data/hdo/input.txt
+ADD input.txt /char-rnn/data/hdo/input.txt
+#RUN /root/torch/install/bin/th train.lua -data_dir data/hdo -gpuid -1 -rnn_size 512 -num_layers 2 -dropout 0.5 | tee -a log.txt
+RUN /root/torch/install/bin/th train.lua -data_dir data/hdo -gpuid -1 | tee -a log.txt
 RUN echo "done  $(date)" >> log.txt
 
 ADD find_lowest_checkpoint.py find_lowest_checkpoint.py
